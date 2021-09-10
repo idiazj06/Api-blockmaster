@@ -8,19 +8,1983 @@
         "password": "password123"
     }],
     "movies": [{
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 869801,
-        "original_language": "es",
-        "original_title": "El deshielo",
-        "overview": "",
-        "popularity": 14.76,
-        "poster_path": null,
-        "release_date": "2021-09-09",
-        "title": "El deshielo",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0
-    }]
+            "adult": false,
+            "backdrop_path": "/pUc51UUQb1lMLVVkDCaZVsCo37U.jpg",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "id": 482373,
+            "original_language": "en",
+            "original_title": "Don't Breathe 2",
+            "overview": "El ciego se ha estado escondiendo durante años en una cabaña aislada y ha acogido y criado a una niña que perdió a sus padres en un incendio en una casa. Su tranquila existencia se hace añicos cuando un grupo de secuestradores aparece y se lleva a la niña, lo que obliga al Ciego a dejar su refugio seguro para rescatarla.",
+            "popularity": 3581.263,
+            "poster_path": "/etYHukMKWSIBX0YkHarCEpOb0fE.jpg",
+            "release_date": "2021-08-12",
+            "title": "No respires 2",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 381
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nDLylQOoIazGyYuWhk21Yww5FCb.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "id": 566525,
+            "original_language": "en",
+            "original_title": "Shang-Chi and the Legend of the Ten Rings",
+            "overview": "Shang-Chi debe enfrentarse al pasado que pensó que había dejado atrás cuando se ve atraído por la red de la misteriosa organización de los Diez Anillos.",
+            "popularity": 3228.037,
+            "poster_path": "/lE8Pet7FMzOFUBMToH7l7g1XAny.jpg",
+            "release_date": "2021-09-01",
+            "title": "Shang-Chi y la leyenda de los Diez Anillos",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 482
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yizL4cEKsVvl17Wc1mGEIrQtM2F.jpg",
+            "genre_ids": [
+                28,
+                878,
+                12
+            ],
+            "id": 588228,
+            "original_language": "en",
+            "original_title": "The Tomorrow War",
+            "overview": "Un día el mundo se paraliza cuando un grupo de viajeros en el tiempo se transporta desde el año 2051 para entregar un mensaje urgente: La humanidad está perdiendo la guerra mundial contra una especie alienígena letal. La única esperanza de supervivencia es que los soldados y los ciudadanos del presente sean transportados al futuro y se unan a la lucha. Entre los reclutados está el profesor de instituto y padre de familia Dan Forester (Chris Pratt) quien, decidido a salvar el mundo por su hija, se une a una brillante científica (Yvonne Strahovski) y a su padre (J.K. Simmons) en una búsqueda desesperada por reescribir el destino del planeta.",
+            "popularity": 3145.279,
+            "poster_path": "/tzp6VzED2TBc02bkYoYnQa6r2OK.jpg",
+            "release_date": "2021-09-03",
+            "title": "La guerra del mañana",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 299
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14,
+                35
+            ],
+            "id": 436969,
+            "original_language": "en",
+            "original_title": "The Suicide Squad",
+            "overview": "Un grupo de super villanos se encuentran encerrados en Belle Reve, una prisión de alta seguridad con la tasa de mortalidad más alta de Estados Unidos. Para salir de allí harán cualquier cosa, incluso unirse al grupo Task Force X, dedicado a llevar a cabo misiones suicidas bajo las órdenes de Amanda Waller. Fuertemente armados son enviados a la isla Corto Maltese, una jungla repleta de enemigos.",
+            "popularity": 2535.755,
+            "poster_path": "/fPJWlhXA2VXf4MlQ3JenVsz1iba.jpg",
+            "release_date": "2021-07-28",
+            "title": "El escuadrón suicida",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 3583
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/849RDhbADVVnhtggR14dDBYejeN.jpg",
+            "genre_ids": [
+                14,
+                10749,
+                35
+            ],
+            "id": 593910,
+            "original_language": "en",
+            "original_title": "Cinderella",
+            "overview": "Una reinvención moderna del cuento tradicional de la niña huérfana con una madrastra malvada.",
+            "popularity": 2284.467,
+            "poster_path": "/yGnbfFuUtTvQr0XvDStOfFEhHoZ.jpg",
+            "release_date": "2021-09-03",
+            "title": "Cenicienta",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 390
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zHHcindG4uVZLPLuYWoo4rnv6Ti.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 595743,
+            "original_language": "en",
+            "original_title": "SAS: Red Notice",
+            "overview": "Un soldado de SAS fuera de servicio, Tom Buckingham, debe frustrar un ataque terrorista en un tren que atraviesa el Túnel del Canal. A medida que la acción se intensifica en el tren, ocurren eventos en los pasillos del poder que pueden marcar la diferencia en cuanto a que Buckingham y los pasajeros civiles salgan vivos del túnel.",
+            "popularity": 2113.88,
+            "poster_path": "/4H70o8r9RN13qTBkuHJcKhRTLAl.jpg",
+            "release_date": "2021-08-11",
+            "title": "SAS: el ascenso del Cisne Negro",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 105
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7WJjFviFBffEJvkAms4uWwbcVUk.jpg",
+            "genre_ids": [
+                12,
+                14,
+                35,
+                28
+            ],
+            "id": 451048,
+            "original_language": "en",
+            "original_title": "Jungle Cruise",
+            "overview": "Principios del siglo XX. Frank es el carismático capitán de una peculiar embarcación que recorre la selva amazónica. Allí, a pesar de los peligros que el río Amazonas les tiene preparados, Frank llevará en su barco a la científica Lily Houghton y a su hermano McGregor Houghton. Su misión será encontrar un árbol místico que podría tener poderes curativos. Claro que su objetivo no será fácil, y en su aventura se encontrarán con toda clase de dificultades, además de una expedición alemana que busca también este árbol con propiedades curativas. Esta comedia de acción y aventuras está basada en la atracción Jungle Cruise de los parques de ocio de Disney.",
+            "popularity": 1931.33,
+            "poster_path": "/esgrxpxrQufea2A3iHJUquG4mdz.jpg",
+            "release_date": "2021-07-28",
+            "title": "Jungle Cruise",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 2436
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dq18nCTTLpy9PmtzZI6Y2yAgdw5.jpg",
+            "genre_ids": [
+                28,
+                12,
+                53,
+                878
+            ],
+            "id": 497698,
+            "original_language": "en",
+            "original_title": "Black Widow",
+            "overview": "Natasha Romanoff, alias Viuda Negra, se enfrenta a las partes más oscuras de su historia cuando surge una peligrosa conspiración con vínculos con su pasado. Perseguida por una fuerza que no se detendrá ante nada para acabar con ella, Natasha debe enfrentarse a su historia como espía y a las relaciones rotas que dejó a su paso mucho antes de convertirse en una Vengadora.",
+            "popularity": 1671.533,
+            "poster_path": "/qjAsDcMlHXxJSfNDQGK9hs13US0.jpg",
+            "release_date": "2021-07-07",
+            "title": "Viuda negra",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 4823
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nprqOIEfiMMQx16lgKeLf3rmPrR.jpg",
+            "genre_ids": [
+                28,
+                53,
+                18
+            ],
+            "id": 619297,
+            "original_language": "en",
+            "original_title": "Sweet Girl",
+            "overview": "Un marido destrozado jura llevar ante la justicia a los responsables de la muerte de su mujer, a la vez que protege a la única familia que le queda, su hija.",
+            "popularity": 1589.263,
+            "poster_path": "/72KBb61fPaUDJWd2W8gG6xDhzzp.jpg",
+            "release_date": "2021-08-18",
+            "title": "Sweet Girl",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 474
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mtRW6eAwOO27h3zrfU2foQFW7Hg.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                12,
+                35
+            ],
+            "id": 675445,
+            "original_language": "en",
+            "original_title": "PAW Patrol: The Movie",
+            "overview": "La patrulla canina está en racha. Cuando Humdinger, su mayor rival, se convierte en alcalde de la cercana Ciudad Aventura y empieza a causar estragos, Ryder y los heroicos cachorros se ponen en marcha para enfrentarse a este nuevo desafío. Mientras uno de los cachorros debe enfrentarse a su pasado en Ciudad Aventura, el equipo encuentra ayuda en una nueva aliada, la inteligente perrita salchicha Liberty. Juntos y armados con nuevos y emocionantes artefactos y equipos, la patrulla canina lucha por salvar a los ciudadanos de Ciudad Aventura.",
+            "popularity": 1567.119,
+            "poster_path": "/2Y5OZsWBksmEl2Dggfx46DfRkFO.jpg",
+            "release_date": "2021-08-09",
+            "title": "La patrulla canina: la película",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 365
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6EdKBYkB1ssgGjc249ud1L55o8d.jpg",
+            "genre_ids": [
+                28,
+                878,
+                53
+            ],
+            "id": 848278,
+            "original_language": "en",
+            "original_title": "Jurassic Hunt",
+            "overview": "Tras la explosión de una mina, los dinosaurios emergen de los escombros y aterrorizan un pueblo del Lejano Oeste; muchos pistoleros unen fuerzas para defender sus hogares y al resto de los residentes de las bestias hambrientas.",
+            "popularity": 1516.999,
+            "poster_path": "/wto7rICtlIr8MpekJhhnh2CPBK6.jpg",
+            "release_date": "2021-08-23",
+            "title": "Cacería Jurásica",
+            "video": false,
+            "vote_average": 4.7,
+            "vote_count": 39
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8s4h9friP6Ci3adRGahHARVd76E.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                878
+            ],
+            "id": 379686,
+            "original_language": "en",
+            "original_title": "Space Jam: A New Legacy",
+            "overview": "Secuela de la cinta original de 1996, Space Jam, protagonizada por Michael Jordan. En esta segunda parte, la super estrella de la NBA es LeBron James, quien queda atrapado junto a su hijo Dom en un extraño lugar, un espacio digital de una fuerza todopoderosa y malvada conocida como A.I. Para volver a casa y poner a salvo a su hijo, el jugador de baloncesto deberá unir fuerzas con Bugs Bunny, Lola Bunny y el resto de personajes de los Looney Tunes para enfrentarse en un partido de baloncesto a los campeones digitalizados por inteligencia artificial.",
+            "popularity": 1490.589,
+            "poster_path": "/i6E8fx8lAEI0PGGCUlaA2Ap1gWi.jpg",
+            "release_date": "2021-07-08",
+            "title": "Space Jam: nuevas leyendas",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 2097
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dssCw0mUmD4EriUmkwB3PnsGu4q.jpg",
+            "genre_ids": [
+                16,
+                28,
+                14
+            ],
+            "id": 841755,
+            "original_language": "en",
+            "original_title": "Mortal Kombat Legends: Battle of the Realms",
+            "overview": "Tras ganar el primer torneo de Mortal Kombat: Liu Kang, Sonya Blade y Johnny Cage, deberán entrar al reino de Outworld, para decidir el destino de la humanidad.",
+            "popularity": 1406.437,
+            "poster_path": "/ikSqxoxcIMq6tG3cCpO0KFt5PQ5.jpg",
+            "release_date": "2021-08-30",
+            "title": "Mortal Kombat Leyendas: La Batalla de los Reinos",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 80
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qD45xHA35HdJDGOaA1AgDwiWEgO.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 744275,
+            "original_language": "en",
+            "original_title": "After We Fell",
+            "overview": "Tessa comienza un nuevo y emocionante capítulo de su vida. Pero, mientras se prepara para mudarse a Seattle por el trabajo de sus sueños, los celos de Hardin y su comportamiento impredecible amenazan con terminar su intensa relación. Su situación se complica cuando aparece el padre de Tessa y salen a la luz impactantes secretos sobre la familia de Hardin. Ahora, ambos deben decidir si vale la pena luchar por su amor o si es hora de ir por caminos separados.",
+            "popularity": 1394.667,
+            "poster_path": "/dC5iAftPyemqjPZRBjUKPr0ZiQ9.jpg",
+            "release_date": "2021-09-01",
+            "title": "After: almas perdidas",
+            "video": false,
+            "vote_average": 8.6,
+            "vote_count": 186
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AjQgFtfXTmmMVuaH2VfQDdGbeQH.jpg",
+            "genre_ids": [
+                28,
+                18,
+                80
+            ],
+            "id": 706972,
+            "original_language": "en",
+            "original_title": "Narco Sub",
+            "overview": "Un hombre se convertirá en un criminal para salvar a su familia. Director: Shawn Welling Guionista: Derek H. Potts Estrellas: Tom Vera, Tom Sizemore, Lee Majors |",
+            "popularity": 1281.571,
+            "poster_path": "/7p0O4mKYLIhU2E5Zcq9Z3vOZ4e9.jpg",
+            "release_date": "2021-07-22",
+            "title": "Operación Narco",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1Txzm4bY5ZDqvgMl7MmHeBMl7HH.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 860425,
+            "original_language": "es",
+            "original_title": "Sinaliento",
+            "overview": "En la República Dominicana, el endurecido policía Manolo intenta acabar con un infame cartel de la droga; mientras tanto, su hija se ha enamorado de Lorenzo, un trabajador de la construcción que, sin saberlo, se ha visto envuelto en los tratos del cartel de la droga.",
+            "popularity": 1179.481,
+            "poster_path": "/oxNoVgbu2v9ETL93Kri1pw8osYf.jpg",
+            "release_date": "2021-08-11",
+            "title": "Sinaliento",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 20
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uRkRJjrxVa04w7k83Hy20FKot4G.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 859041,
+            "original_language": "en",
+            "original_title": "Crazy Fist",
+            "overview": "En Shanghai, un ex campeón de artes marciales mixtas y heredero de una corporación multimillonaria prometió no volver a pelear en el ring después de matar accidentalmente a su oponente durante su última pelea. Pero cuando su hermano muere en un torneo de box clandestino, no tiene más remedio que unirse a Maiwen, un informante de la policía, para investigar su muerte, y descubren una gran conspiración..",
+            "popularity": 1171.542,
+            "poster_path": "/tzf4ZnyLqDu01FcdqeIpPE6V2dm.jpg",
+            "release_date": "2021-08-06",
+            "title": "Crazy Fist",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8Y43POKjjKDGI9MH89NW0NAzzp8.jpg",
+            "genre_ids": [
+                35,
+                28,
+                12,
+                878
+            ],
+            "id": 550988,
+            "original_language": "en",
+            "original_title": "Free Guy",
+            "overview": "Un hombre descubre que en realidad es un personaje dentro de un videojuego. Guy (Ryan Reynolds) trabaja como cajero de un banco, es un tipo alegre y solitario al que nada la amarga el día. Incluso si le utilizan como rehén durante un atraco a su banco, él sigue sonriendo como si nada. Pero un día se da cuenta de que Free City no es exactamente la ciudad que él creía. Guy va a descubrir que en realidad es un personaje no jugable dentro de un brutal videojuego. Ahora que sabe que es un personaje de videojuego, Guy, acompañado por Molotov Girl (Jodie Comer), decidirá enfrentarse a todos los villanos que asolan la ciudad.",
+            "popularity": 1168.371,
+            "poster_path": "/suaooqn1Mnv60V19MoGxneMupJs.jpg",
+            "release_date": "2021-08-11",
+            "title": "Free Guy",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 584
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 385128,
+            "original_language": "en",
+            "original_title": "F9",
+            "overview": "Dom Toretto lleva una vida tranquila con Letty y su hijo, el pequeño Brian, pero saben que el peligro siempre acecha. Esta vez, esa amenaza obligará a Dom a enfrentarse a los pecados de su pasado si quiere salvar a quienes más quiere. El equipo se vuelve a reunir para impedir un complot a escala mundial, liderado por uno de los asesinos más peligrosos y mejor conductor a los que se han enfrentado; un hombre que además es el hermano desaparecido de Dom, Jakob. Novena entrega de la famosa franquicia.",
+            "popularity": 1137.17,
+            "poster_path": "/TX1T3c3CDBN0y8iDNvlQbtiA5Z.jpg",
+            "release_date": "2021-05-19",
+            "title": "Fast & Furious 9",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 3473
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14
+            ],
+            "id": 508943,
+            "original_language": "en",
+            "original_title": "Luca",
+            "overview": "Ambientada en un precioso pueblo costero de la Riviera italiana, narra la historia sobre el paso a la edad adulta de un chico que vive un verano inolvidable lleno de helados, pasta e infinitos paseos en scooter. Luca comparte estas aventuras con su nuevo mejor amigo, pero toda la diversión se ve amenazada por un secreto muy profundo: él es un monstruo marino de un mundo que yace bajo la superficie del agua.",
+            "popularity": 1136.436,
+            "poster_path": "/j93NHWoTjdsL4sdz058M3AvKrMy.jpg",
+            "release_date": "2021-06-17",
+            "title": "Luca",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 4353
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/86L8wqGMDbwURPni2t7FQ0nDjsH.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 724989,
+            "original_language": "en",
+            "original_title": "Hard Kill",
+            "overview": "El trabajo del multimillonario CEO de tecnología Donovan Chalmers es tan valioso que contrata mercenarios para protegerlo, y un grupo terrorista secuestra a su hija solo para conseguirlo.",
+            "popularity": 18.808,
+            "poster_path": "/x7Dc6FTBYOfwMDEHSGW6EOitidk.jpg",
+            "release_date": "2020-10-23",
+            "title": "Mercenarios de élite",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 385
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nnGluGp4Bowcy7STdDAEScQcwzV.jpg",
+            "genre_ids": [
+                878,
+                53
+            ],
+            "id": 174772,
+            "original_language": "en",
+            "original_title": "Europa Report",
+            "overview": "Una expedición al espacio compuesta por un equipo internacional de seis astronautas es enviada a una misión privada en la cuarta luna de Júpiter, Europa. Su objetivo principal era buscar vida extraterrestre. Pero se perdió la comunicación con ellos durante el transcurso del viaje.",
+            "popularity": 17.755,
+            "poster_path": "/7qXre8FTMGQbVd604Qoo8sBKm3a.jpg",
+            "release_date": "2013-06-27",
+            "title": "Europa One",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 1002
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sfqBeVGDRCgLtwDwWKHCmckGW76.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 1597,
+            "original_language": "en",
+            "original_title": "Meet the Parents",
+            "overview": "Greg Focker es un enfermero algo patoso que, tras anunciar su compromiso con novia Pam, tiene que pasar unos días con los padres de ella, para conocerles. Su encuentro inicial no será muy afortunado, en especial por las suspicacias que Greg levanta en el estricto padre de la novia, un padre protector exagente de la CIA al que es muy difícil impresionar. Desde el principio, Jim rechaza por completo a Greg, pero a medida que lo conoce mejor, su rechazo se convierte en absoluto desprecio, y se encarga de convertirse en la peor pesadilla de este hombre que, a pesar de amar a su novia y querer dar una buena primera impresión, cada vez se hunde más en el lodo de su propia ineptitud, y deberá luchar mucho para poder cambiar la pésima opinión que tienen de él los parientes de su novia.",
+            "popularity": 23.95,
+            "poster_path": "/2MM1BcQLSvKAz0AMIVrFBiTRrRq.jpg",
+            "release_date": "2000-10-06",
+            "title": "Los padres de ella",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 4633
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nLyw8npzojNqffBzXCT3znEADNf.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 180299,
+            "original_language": "id",
+            "original_title": "The Raid 2: Berandal",
+            "overview": "Poco después de finalizar la sangrienta redada, el inspector Rama se ve obligado a infiltrarse en las filas del sindicato del crimen de Yakarta con el fin de proteger a su familia y descubrir la corrupción en el seno de su propia fuerza policial.",
+            "popularity": 19.604,
+            "poster_path": "/2P2RZgQ24NoL6IgtmpHHZWqfTZu.jpg",
+            "release_date": "2014-03-27",
+            "title": "Redada asesina 2",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 1710
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bcVvmv9txmENrTFv79m9KdI538n.jpg",
+            "genre_ids": [
+                10749
+            ],
+            "id": 458083,
+            "original_language": "ko",
+            "original_title": "탐하다: 욕망의 섬",
+            "overview": "",
+            "popularity": 21.379,
+            "poster_path": "/zNebLQ3O2BNNI1qCDqTRCzxJTrS.jpg",
+            "release_date": "2017-05-04",
+            "title": "탐하다: 욕망의 섬",
+            "video": false,
+            "vote_average": 4.5,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h0cP6cGf3uIHQuuxh6NSzeWUUf2.jpg",
+            "genre_ids": [
+                16,
+                18,
+                10749
+            ],
+            "id": 33320,
+            "original_language": "ja",
+            "original_title": "千年女優",
+            "overview": "Hace treinta años, Chiyoko Fujiwara fue la estrella más importante del cine japonés, pero, de repente, desapareció. Uno de sus mayores admiradores, el realizador de documentales Genya Tachibana, viaja hasta el apartado refugio de montaña en el que vive para entrevistarla. Una vez allí, entrega a su ídolo de juventud una vieja llave que encontró entre los restos de su antiguo estudio. Como si la llave hubiera abierto las puertas de su memoria, Chiyoko comienza a recordar la historia de su vida. De esta forma, viaja desde el remoto pasado hasta el distante futuro a través de mil años, traspasando la frontera que separa la realidad de las películas que han formado gran parte de su vida...",
+            "popularity": 16.849,
+            "poster_path": "/r52rLyJH86OSyISbtKpYE47WSbW.jpg",
+            "release_date": "2001-09-14",
+            "title": "Millennium Actress",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 475
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AbFWty0o5nKGo4iLJaGRgqFtC8W.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 4234,
+            "original_language": "en",
+            "original_title": "Scream 3",
+            "overview": "Después de los terroríficos acontecimientos que tuvieron lugar en la localidad de Woodsboro, Sidney vive alejada del mundo en una casita de las montañas, intentando olvidar el pasado. Se dedica a proporcionar apoyo moral a mujeres con problemas a través del teléfono; pero, un día, alguien la llama para informarla de los asesinatos que se están produciendo durante el rodaje de \"Puñaladas 3\", película basada en los hechos de los que ella fue protagonista.",
+            "popularity": 24.349,
+            "poster_path": "/dEEvUjBFW1JOVoDnJ7LxZRw75Ik.jpg",
+            "release_date": "2000-02-03",
+            "title": "Scream 3",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 2144
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nrDDTgU0tAHVlwCQ02cUWlPGtiQ.jpg",
+            "genre_ids": [
+                18,
+                80,
+                53
+            ],
+            "id": 1538,
+            "original_language": "en",
+            "original_title": "Collateral",
+            "overview": "Vincent es un frío y calculador asesino a sueldo que siempre va a por todas. Max es un taxista con muchos sueños y sin grandes resultados. En aquella noche fatídica, Max ha de llevar a Vincent a su próximo trabajo: una noche, cinco paradas, cinco golpes y una salida. Juntos, con sus vidas en choque continuo, ninguno de los dos volverá a ser el mismo. Esta noche todo va a cambiar...",
+            "popularity": 18.449,
+            "poster_path": "/gR596R86b7LV9E5sF0hoHv6Y13F.jpg",
+            "release_date": "2004-08-04",
+            "title": "Collateral",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 3984
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lKoIpmbmd9vcjwgkmnVRp8YZEe3.jpg",
+            "genre_ids": [
+                35,
+                28,
+                14
+            ],
+            "id": 594767,
+            "original_language": "en",
+            "original_title": "Shazam! Fury of the Gods",
+            "overview": "",
+            "popularity": 17.278,
+            "poster_path": "/vrFVPBprPlKKmIcpuLVu8SluI9j.jpg",
+            "release_date": "2023-06-01",
+            "title": "¡Shazam! 2",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cZyidG9S3w5pC4AS3Yikx0FCiE5.jpg",
+            "genre_ids": [
+                80,
+                18,
+                9648,
+                28
+            ],
+            "id": 713711,
+            "original_language": "en",
+            "original_title": "The Gateway",
+            "overview": "Un trabajador social asignado al cuidado de la hija de una madre soltera interviene cuando el padre regresa de la cárcel y los atrae a una vida delictiva.",
+            "popularity": 27.959,
+            "poster_path": "/gUilTInQpzoK7iCkPjysamiVmjS.jpg",
+            "release_date": "2021-09-03",
+            "title": "The Gateway",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oamFPL6EMqVNCfF152KiMfrWsXp.jpg",
+            "genre_ids": [
+                99,
+                80
+            ],
+            "id": 810731,
+            "original_language": "en",
+            "original_title": "Why Did You Kill Me?",
+            "overview": "El límite entre la justicia y la venganza se desdibuja cuando una familia destrozada usa las redes sociales para encontrar a los asesinos de la joven Crystal Theobald.",
+            "popularity": 21.98,
+            "poster_path": "/5x95riaxPFC8SUQTit4ZkkqxXh.jpg",
+            "release_date": "2021-04-14",
+            "title": "¿Por qué me matasteis?",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eamCgmajLKamFL3WZwQDrSNe5RE.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 337844,
+            "original_language": "en",
+            "original_title": "In Dubious Battle",
+            "overview": "En el país de la manzana, California, novecientos trabajadores inmigrantes se alzan contra los terratenientes tras pagarles sólo una parte del sueldo prometido. El grupo adquieres una vida propia, más fuerte que los miembros como individuos y mucho más peligrosa. Liderados por el condenado Jim Nola, la huelga se funda en su trágico idealismo.",
+            "popularity": 15.205,
+            "poster_path": "/8GIpxx1k1BjSdtt5zH78so20ynX.jpg",
+            "release_date": "2017-02-17",
+            "title": "Una lucha incierta",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 106
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kvexLqnJKZSMEu2CWNzNjlcMCNJ.jpg",
+            "genre_ids": [
+                37,
+                27
+            ],
+            "id": 294963,
+            "original_language": "en",
+            "original_title": "Bone Tomahawk",
+            "overview": "A la localidad de Bright Hope llega un forastero que rápidamente despierta las sospechas del sheriff, que termina por arrestarlo tras dispararle en la pierna. Samantha O'Dwyer se encarga de extraerle la bala en el calabozo. Pero esa noche un joven en un establo es asesinado y el ayudante del sheriff, la Sra. O'Dwyer y el detenido han desaparecido. Siguiendo la única pista que tiene, una flecha india, el sheriff buscará a la joven con la ayuda de algunos hombres, entre ellos un vaquero y un anciano.",
+            "popularity": 16.501,
+            "poster_path": "/rFAE4LhOsjevrhUmYoVtRLuy6I6.jpg",
+            "release_date": "2015-10-23",
+            "title": "Bone Tomahawk",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 1488
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gOYlpZjpzHFePSHt0OxZHYENfvC.jpg",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "id": 2069,
+            "original_language": "en",
+            "original_title": "The Whole Nine Yards",
+            "overview": "Nicholas es un joven dentista que vive una vida tranquila, pero con una mujer insoportable, en su acogedora casa al lado de Montreal. El mundo de Nicholas sufrirá una revolución cuando aparece su nuevo vecino, Jimmy “El Tulipán”, un temido y reputado asesino a sueldo. Después de delatar en prisión a su jefe, el capo mafioso Yanni Gogolack, intenta ahora empezar una nueva y tranquila vida en el Montreal suburbano. Sin embargo, la intrigante esposa de Nicholas acaba de un plumazo con ese sueño cuando obliga a éste a volar hasta Chicago para avisar a la mafia que Jimmy está en Montreal y cobrar así la recompensa del chivato. Nicholas, que haría cualquier cosa por alejarse de su mujer, accede a llevar a cabo el plan, creyendo que quizás así podrá reunir el dinero suficiente para abandonarla y desaparecer",
+            "popularity": 17.445,
+            "poster_path": "/lej9OBBmFdGgDL6YObUkA3GUtUx.jpg",
+            "release_date": "2000-02-18",
+            "title": "Falsas apariencias",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 1336
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fnA8T8cQKAKq8nlfonyMfJRQrLa.jpg",
+            "genre_ids": [
+                16,
+                12
+            ],
+            "id": 561974,
+            "original_language": "ko",
+            "original_title": "점박이 한반도의 공룡 2: 새로운 낙원",
+            "overview": "Speckles, un feroz tarbosaurio y su hijo menor, que lloran la pérdida de su familia en una batalla épica, deambulan por las tierras en busca de comida, aventura y paz. Bajo la atenta mirada de su padre, Junior está creciendo sano y fuerte, pero con un exceso de confianza gracias a su corta edad. Después de que un encuentro resulta en el secuestro de Junior, Speckles se embarca en una aventura hasta los confines de la tierra para encontrar a su hijo. Al encontrarse con amigos y enemigos, aliados y enemigos, Speckles no se detendrá ante nada y tomará todos los rincones para salvar a su descendencia.",
+            "popularity": 21.163,
+            "poster_path": "/uHqgeCXnPOcVpaU56AZZwJNHZt4.jpg",
+            "release_date": "2019-12-25",
+            "title": "Dino King 3D: Journey to Fire Mountain",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 88
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wKTsWgnMgc7Q0NdtTmL4bwONC04.jpg",
+            "genre_ids": [
+                53,
+                80,
+                9648
+            ],
+            "id": 646593,
+            "original_language": "en",
+            "original_title": "Wander",
+            "overview": "Después de ser contratado para investigar una muerte sospechosa en la pequeña ciudad de Wander, un investigador privado mentalmente inestable se convence de que el caso está relacionado con el mismo 'encubrimiento de conspiración' que causó la muerte de su hija.",
+            "popularity": 19.81,
+            "poster_path": "/doVSPLbgGGPjjosHlqskBZj5DMY.jpg",
+            "release_date": "2020-12-04",
+            "title": "Conspiración Wander",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 174
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qU7tNIMpRqkizIObXfkJY3haTqh.jpg",
+            "genre_ids": [
+                18,
+                10402,
+                10749
+            ],
+            "id": 27,
+            "original_language": "en",
+            "original_title": "9 Songs",
+            "overview": "Lisa es una estudiante estadounidense que está pasando un año en Londres. Matt la conoce en un concierto de Black Rebel Motorcycle en Brixton Academy y se enamora de ella. Entre la música y los grupos vemos a Matt y a Lisa haciendo el amor y cómo a través de esos encuentros sexuales se va desarrollando su relación, que dura hasta las navidades, cuando Lisa regresa a Estados Unidos.",
+            "popularity": 18.495,
+            "poster_path": "/7Bkt2Z989GasK0YKykIMyLPYOGz.jpg",
+            "release_date": "2004-05-16",
+            "title": "9 Songs",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 337
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k92HApUunAj5lkriBQ6273c6bSr.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 638605,
+            "original_language": "es",
+            "original_title": "La boda de la abuela",
+            "overview": "La Abuela ha decidido casarse con Julio, el que por años ha sido el cuidador de su casa en Cuernavaca. Aunque no están muy de acuerdo con la situación, las familias de ambos se reúnen durante un fin de semana para celebrar el matrimonio. A pesar de sus múltiples diferencias, todos tratan de llevar la fiesta en paz, pero esto resulta mucho más complicado de lo que parece. La boda de la Abuela peligra por culpa de sus nietos y solo ellos pueden hacer que tenga un final feliz. Secuela de la película de 2015 'El cumple de la abuela'.",
+            "popularity": 20.068,
+            "poster_path": "/eA0QVLSymgfTgqAtB6AdWAU5t6Q.jpg",
+            "release_date": "2019-10-11",
+            "title": "La boda de la abuela",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 60
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ridcUDnFumpMB5AAsIvFafTSx5i.jpg",
+            "genre_ids": [
+                53,
+                9648,
+                18
+            ],
+            "id": 452832,
+            "original_language": "en",
+            "original_title": "Serenity",
+            "overview": "La tranquila vida de Baker Dill, un capitán de barco pesquero que vive en la aislada isla de Plymouth, donde pasa sus días obsesionado con la captura de un escurridizo atún mientras lucha contra sus demonios personales, se ve perturbada cuando alguien de su pasado acude a él en busca de ayuda.",
+            "popularity": 17.261,
+            "poster_path": "/8OrpkiogKFyIIwV7pILy4g5zeGe.jpg",
+            "release_date": "2019-01-24",
+            "title": "Serenity",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 1197
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8H2HOp49GBETs6F3ci0zAS3r1Xf.jpg",
+            "genre_ids": [
+                18,
+                53,
+                9648
+            ],
+            "id": 401546,
+            "original_language": "en",
+            "original_title": "The Dinner",
+            "overview": "Paul y Claire Lohman son un matrimonio con dos hijos que deben asistir a una lujosa cena organizada por Stan, el hermano de Paul. Stan es candidato a gobernador y quiere aprovechar esa cena para poner fin al oscuro secreto que esconde la familia de su hermano y que está directamente relacionado con sus hijos. ¿Hasta dónde llegará el matrimonio Lohman por defender y proteger a sus chicos?",
+            "popularity": 16.753,
+            "poster_path": "/13ZKrFHeUZ11Oj2T8taxo7wVhY4.jpg",
+            "release_date": "2017-05-05",
+            "title": "La cena",
+            "video": false,
+            "vote_average": 4.4,
+            "vote_count": 229
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wjQXZTlFM3PVEUmKf1sUajjygqT.jpg",
+            "genre_ids": [
+                878,
+                28,
+                53
+            ],
+            "id": 581726,
+            "original_language": "en",
+            "original_title": "Infinite",
+            "overview": "Evan McCauley tiene habilidades que nunca aprendió y recuerdos de lugares que nunca ha visitado. Automedicado y al borde de un colapso mental, un grupo secreto que se hace llamar \"Infinitos\" acuden a su rescate, revelando que sus recuerdos son reales.",
+            "popularity": 1108.241,
+            "poster_path": "/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg",
+            "release_date": "2021-06-10",
+            "title": "Infinito",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 984
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uZDE9VnKFnIPmWriMjnp82bH9S8.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 825997,
+            "original_language": "en",
+            "original_title": "Rogue Hostage",
+            "overview": "Un ex infante de marina corre contra el tiempo para salvar a un grupo de rehenes, incluida su pequeña hija y un congresista, cuando militantes armados se apoderan de la tienda de su padrastro.",
+            "popularity": 1029.233,
+            "poster_path": "/fOEigzmB1YEZueJKGZtMMlOh6ZK.jpg",
+            "release_date": "2021-06-11",
+            "title": "Rehén rebelde",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 73
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z1s7yuQbDOhJE2zvvADofBCL9j1.jpg",
+            "genre_ids": [
+                16,
+                35,
+                12,
+                10751
+            ],
+            "id": 459151,
+            "original_language": "en",
+            "original_title": "The Boss Baby: Family Business",
+            "overview": "Los hermanos Templeton se han convertido en adultos y se han alejado el uno del otro, pero un nuevo jefe bebé con un enfoque de vanguardia está a punto de unirlos nuevamente e inspirar un nuevo negocio familiar.",
+            "popularity": 1032.59,
+            "poster_path": "/3XYeAnIdjTiHZehtKcNzsyBwtcz.jpg",
+            "release_date": "2021-07-01",
+            "title": "El bebé jefazo 2: negocios de familia",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 1338
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uHmvk8FnoxpgujDU0RIXLkv2fNt.jpg",
+            "genre_ids": [
+                16,
+                35
+            ],
+            "id": 573164,
+            "original_language": "es",
+            "original_title": "Un rescate de huevitos",
+            "overview": "Toto y Di son los padres de dos hermosos huevos: Uly y Max.",
+            "popularity": 990.642,
+            "poster_path": "/wrlQnKHLCBheXMNWotyr5cVDqNM.jpg",
+            "release_date": "2021-08-12",
+            "title": "Un rescate de huevitos",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 206
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o0UGl6icA4DbhmDNgdZ5AWvuTtM.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 653349,
+            "original_language": "en",
+            "original_title": "Vacation Friends",
+            "overview": "Marcus y Emily hacen amistad en un resort de México con Ron y Kyla, una pareja de locos fiesteros. Allí deciden disfrutar del momento dejándose llevar durante una semana llena de desinhibición y desenfreno con sus nuevos \"amigos pasajeros\". Meses después de la aventura, Marcus y Emily se horrorizan al ver que Ron y Kyla aparecen sin que los inviten en su boda.",
+            "popularity": 937.708,
+            "poster_path": "/5gQmECcdlJeYlBHTh0TIz3DE75Y.jpg",
+            "release_date": "2021-08-27",
+            "title": "Amigos pasajeros",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 197
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dIibeeq4QMay5bTJ2vjr72IFFRo.jpg",
+            "genre_ids": [
+                14,
+                12,
+                35
+            ],
+            "id": 589754,
+            "original_language": "ru",
+            "original_title": "Последний богатырь: Корень зла",
+            "overview": "Belogorie vive un momento de paz y tranquilidad. El mal fue vencido e Ivan está disfrutando de su fama junto a su familia, sus amigos y el maravilloso mundo moderno que le ayuda a vivir de manera confortable. Por suerte, tiene una espada mágica para pasar de un mundo a otro, para coger algunas cosas de vez en cuando. Pero cuando el mal reaparece y la existencia del mundo mágico está en peligro, Ivan tendrá que enfrentarse a los enemigos para que la paz regrese a Belogorie.",
+            "popularity": 897.654,
+            "poster_path": "/fXjYpt5VfShntmwieXtUli8r1My.jpg",
+            "release_date": "2021-01-01",
+            "title": "El último guerrero. Las raíces del mal",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 23
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rUoGZuscSG4fQP3I56ndadu2A8E.jpg",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "id": 729720,
+            "original_language": "fr",
+            "original_title": "Le Dernier Mercenaire",
+            "overview": "Un misterioso ex agente del servicio secreto debe regresar urgentemente a Francia cuando su hijo separado es acusado falsamente por el gobierno de tráfico de armas y drogas, luego de un error cometido por un burócrata demasiado entusiasta y una operación de la mafia.",
+            "popularity": 844.927,
+            "poster_path": "/mXmY5F0212bMg5ZbAlVTB3cWBQi.jpg",
+            "release_date": "2021-07-30",
+            "title": "El último mercenario",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 365
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wsztJfJvJW5nXxn5n0DIMzH2TDM.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 347626,
+            "original_language": "en",
+            "original_title": "He's All That",
+            "overview": "Una influencer especializada en cambios de imagen apuesta que puede transformar a un alumno poco popular en el rey del baile.",
+            "popularity": 706.166,
+            "poster_path": "/lge7oQ4AyhINB8lrTWwg1z9bEPF.jpg",
+            "release_date": "2021-08-27",
+            "title": "Alguien como él",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 417
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lzLzKXq2C0kL5Pu7VW5sNl5KV6L.jpg",
+            "genre_ids": [
+                12,
+                53,
+                18,
+                28
+            ],
+            "id": 597433,
+            "original_language": "en",
+            "original_title": "Beckett",
+            "overview": "Beckett (John David Washington), un estadounidense de vacaciones en Grecia, se convierte en víctima de una persecución tras un brutal accidente. Mientras emprende una huida desesperada por Grecia para salvar el pellejo, llegar a la embajada de Estados Unidos y lavar su nombre, la tensión va en aumento a medida que las autoridades estrechan el cerco, el malestar político aumenta, y Beckett se va adentrando más y más en una peligrosa e intrincada conspiración.",
+            "popularity": 765.925,
+            "poster_path": "/fBJducGBcmrcIOQdhm4BUBNDiMu.jpg",
+            "release_date": "2021-08-04",
+            "title": "Beckett",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 299
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qnFxKwYDY7vfc3DBu3m8DzhhCfw.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 678580,
+            "original_language": "es",
+            "original_title": "El mesero",
+            "overview": "La historia de un mesero que desea vivir como los clientes que atiende en el lujoso restaurante donde trabaja, su compañero le desanima muy seguido diciéndole que nunca lograra ser como ellos.",
+            "popularity": 741.442,
+            "poster_path": "/zvGC5jX5wQmU1GgPc0VGZz7Mtcs.jpg",
+            "release_date": "2021-07-15",
+            "title": "El mesero",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 215
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6MKr3KgOLmzOP6MSuZERO41Lpkt.jpg",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "id": 337404,
+            "original_language": "en",
+            "original_title": "Cruella",
+            "overview": "Ambientada en el Londres de los años 70, en plena revolución del punk rock, muestra a una joven estafadora llamada Estella, una chica inteligente y creativa, decidida a convertirse en una exitosa diseñadora de moda, que se asocia con un par de ladrones para sobrevivir en las calles de la capital británica. Pero cuando su talento para la moda llama la atención de la legendaria diseñadora, la Baronesa von Hellman, Estella cambia el rumbo de su vida hasta que una serie de acontecimientos y revelaciones que harán que Estella asuma su lado malvado y se convierta en la estridente, moderna y vengativa Cruella de Vil.",
+            "popularity": 719.035,
+            "poster_path": "/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg",
+            "release_date": "2021-05-26",
+            "title": "Cruella",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 5247
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wPjtacig0kIkVcTQmXoNt6jbMwo.jpg",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "id": 617502,
+            "original_language": "en",
+            "original_title": "Jolt",
+            "overview": "Una chica dura con tendencias ligeramente homicidas y que no controla la ira se da descargas con un chaleco de electrodos para volver a la normalidad si le entran las ganas de matar. Cuando asesinan al primer hombre del que se ha enamorado, empieza un desenfreno vengativo para encontrar al asesino, al mismo tiempo que la policía va tras ella porque la considera sospechosa.",
+            "popularity": 722.176,
+            "poster_path": "/gYZAHan5CHPFXORpQMvOjCTug4E.jpg",
+            "release_date": "2021-07-15",
+            "title": "Jolt",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 637
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tehpKMsls621GT9WUQie2Ft6LmP.jpg",
+            "genre_ids": [
+                27,
+                28,
+                53
+            ],
+            "id": 602223,
+            "original_language": "en",
+            "original_title": "The Forever Purge",
+            "overview": "Para los miembros de un movimiento clandestino, ya no es suficiente una noche anual de anarquía y asesinatos, así que deciden devolver a Estados Unidos el caos y las masacres sin fin, donde nadie volverá a estar a salvo... jamás. Adela y su esposo Juan viven en Texas, donde él trabaja como peón en un rancho para la adinerada familia Tucker. En la mañana después de la tradicional purga, una banda de asesinos enmascarados ataca violenta e ilegalmente a la familia Tucker. Tras este hecho, la familia texana se ve obligada a unirse con Juan y su esposa para enfrentar un país entero a punto de colapsar, que se hunde en un mar de caos y de sangre. Quinta y última entrega de la saga 'The Purge'.",
+            "popularity": 705.073,
+            "poster_path": "/zWiXxOTM3NeYcj3dzbtoGqIIJPz.jpg",
+            "release_date": "2021-06-30",
+            "title": "La purga: infinita",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 1163
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6tPOZmNQ1tbzlhcMmyhYN1a1dEh.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 809968,
+            "original_language": "pl",
+            "original_title": "Bartkowiak",
+            "overview": "Tras el fallecimiento de su hermano en un accidente de coche, un joven luchador se hace cargo del club familiar y pronto se da cuenta de que esa muerte no fue accidental.",
+            "popularity": 699.287,
+            "poster_path": "/kOVko9u2CSwpU8zGj14Pzei6Eco.jpg",
+            "release_date": "2021-07-28",
+            "title": "Bartkowiak",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 107
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9DZlZvgh9dIGcri79hv3KtHiq5K.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 637649,
+            "original_language": "en",
+            "original_title": "Wrath of Man",
+            "overview": "H (Jason Statham) es el misterioso tipo que acaba de incorporarse como guardia de seguridad en una compañía de blindados. Durante un intento de atraco a su camión, sorprende a sus compañeros mostrando habilidades de un soldado profesional, dejando al resto del equipo preguntándose quién es realmente y de dónde viene. Pronto se hará claro el verdadero motivo por el cual H está buscando un ajuste de cuentas.",
+            "popularity": 665.016,
+            "poster_path": "/emM894kjspdQsHyTAF7sjRNlbTr.jpg",
+            "release_date": "2021-04-22",
+            "title": "Despierta la furia",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 2148
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9yBVqNruk6Ykrwc32qrK2TIE5xw.jpg",
+            "genre_ids": [
+                28,
+                14,
+                12
+            ],
+            "id": 460465,
+            "original_language": "en",
+            "original_title": "Mortal Kombat",
+            "overview": "Un boxeador fracasado descubre un secreto familiar que lo lleva a un torneo místico llamado Mortal Kombat donde se encuentra con un grupo de guerreros que luchan hasta la muerte para salvar los reinos del malvado hechicero Shang Tsung.",
+            "popularity": 692.185,
+            "poster_path": "/t2GbiMJfO8txoihdJC8RsfK1ds7.jpg",
+            "release_date": "2021-04-07",
+            "title": "Mortal Kombat",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 3712
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xPpXYnCWfjkt3zzE0dpCNME1pXF.jpg",
+            "genre_ids": [
+                16,
+                28,
+                12,
+                14
+            ],
+            "id": 635302,
+            "original_language": "ja",
+            "original_title": "劇場版「鬼滅の刃」無限列車編",
+            "overview": "Tanjiro y sus compañeros se unen al Pilar de las Llamas Kyojuro Rengoku para investigar una misteriosa serie de desapariciones que han ocurrido dentro del “Tren Infinito”. Poco saben que Enmu, uno de los miembros de las Doce Lunas Demoníacas, también está a bordo y les ha preparado una trampa.",
+            "popularity": 644.125,
+            "poster_path": "/3f4ETSwknZs74lmUYC7ENIMRBMP.jpg",
+            "release_date": "2020-10-16",
+            "title": "Guardianes de la Noche: Tren infinito",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 1613
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iJ2HVOZT9Kjayrhy21pbGIJs9ey.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "id": 525660,
+            "original_language": "cn",
+            "original_title": "真·三国无双",
+            "overview": "Dynasty Warriors es una próxima película de acción y fantasía de Hong Kong basada en la franquicia japonesa de videojuegos del mismo título.",
+            "popularity": 632.772,
+            "poster_path": "/1w0AkplNn51VZZ9ehA9I0hqJzLs.jpg",
+            "release_date": "2021-04-29",
+            "title": "Dynasty Warriors",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 64
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9p3bwHTpX5Axpyp4gxqmDxWaau0.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                10402,
+                14
+            ],
+            "id": 410113,
+            "original_language": "en",
+            "original_title": "The Loud House Movie",
+            "overview": "La aventura trata del viaje de la familia Loud a Escocia, donde descubren que son descendientes de la realeza escocesa. La familia se entrega rápidamente a la gran vida y descubre que el hogar de sus ancestros es un castillo.",
+            "popularity": 603.484,
+            "poster_path": "/mab5wPeGVjbMyYMzyzfdKKnG9cl.jpg",
+            "release_date": "2021-08-20",
+            "title": "Una casa de locos: La película",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 63
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6FzuNrApEc71aJ3CwwkpadbNled.jpg",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "id": 581644,
+            "original_language": "en",
+            "original_title": "The Misfits",
+            "overview": "Después de ser reclutado por un grupo de ladrones poco convencionales, el renombrado criminal Richard Pace se ve envuelto en un elaborado atraco de oro que promete tener implicaciones de gran alcance en su vida y en la vida de muchos otros.",
+            "popularity": 592.746,
+            "poster_path": "/ifuKZivA7SKhFpUH8g5vk2UmVd0.jpg",
+            "release_date": "2021-06-10",
+            "title": "Ladrones de élite",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 133
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pnw8hdc2RWXGW7mLHzCVUKt0BGI.jpg",
+            "genre_ids": [
+                16,
+                12,
+                35,
+                10751
+            ],
+            "id": 326215,
+            "original_language": "en",
+            "original_title": "Ooops! Noah is Gone...",
+            "overview": "Es el fin del mundo. Un diluvio llega. Por suerte para Dave y su hijo Finny, un par de torpes Nestrians, se ha construido un Arca para salvar a todos los animales. Pero resulta que no se admiten Nestrians. Abordan furtivamente con la ayuda involuntaria de Hazel y su hija Leah, dos Grymps, creen que están a salvo. Finny y Leah tienen que intentar sobrevivir a la inundación y a los depredadores hambrientos y tratar de llegar a la cima de una montaña , mientras que Dave y Hazel deben dejar de lado sus diferencias.",
+            "popularity": 22.678,
+            "poster_path": "/fxx4Aar9gabssNX1W7h0NSPlMKz.jpg",
+            "release_date": "2015-03-26",
+            "title": "¡Upsss! ¿Dónde está Noé...?",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 233
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sNNFLEcAuy4C3RyXCnKoArn7Aty.jpg",
+            "genre_ids": [
+                16,
+                28,
+                878,
+                12
+            ],
+            "id": 12180,
+            "original_language": "en",
+            "original_title": "Star Wars: The Clone Wars",
+            "overview": "Mientras las Guerras Clon barren la galaxia, Anakin Skywalker y su nueva aprendiz Padawan, Ahsoka Tano, se aventuran en una arriesgada misión para rescatar al hijo secuestrado de Jabba el Hutt, el señor del Crimen. El renegado Conde Dooku y su letal y cruel vasalla Asajj Ventress harán todo lo posible por hacerles fracasar, haciendo que la misión de Anakin Skywalker tenga graves consecuencias.Mientras, en la línea de batalla, Obi-Wan Kenobi y el maestro Yoda lideran el masivo ejército clon en un valiente esfuerzo por derrotar al ejército droide y resistir a las fuerzas del lado oscuro.",
+            "popularity": 27.423,
+            "poster_path": "/ywRtBu88SLAkNxD0GFib6qsFkBK.jpg",
+            "release_date": "2008-08-05",
+            "title": "Star Wars: Las guerras clon",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 1425
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h0hgSBPF5vKOg9tSkKovljeAwre.jpg",
+            "genre_ids": [
+                10751,
+                16
+            ],
+            "id": 25472,
+            "original_language": "en",
+            "original_title": "Merry Madagascar",
+            "overview": "Nueva aventura de los animales más famosos del Zoo de Central Park (Nueva York), que se sitúa tras los acontecimientos de \"Madagascar\" y \"Madagascar: Escape 2 Africa\". \"Merry Madagascar\" comienza cuando Papá Noel y su trineo aterrizan de forma inesperada en la isla, causando amnesia a Santa Claus. Ahora corresponderá a Álex, Marty, Melman y Gloria (junto con los cada vez más inventivos Pingüinos) entregar los regalos y salvar la Navidad. Y como el trineo no está dañado, podría ser capaz de hacer un pequeño viaje a Nueva York y así regresar finalmente a su amado hogar. (FILMAFFINITY)",
+            "popularity": 24.424,
+            "poster_path": "/s5nELMHR1L2agJXVIPiWxu6dWl8.jpg",
+            "release_date": "2009-11-16",
+            "title": "Feliz Madagascar",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 196
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sAczHq1GTmePqHu3OTTkIyI64pV.jpg",
+            "genre_ids": [
+                16,
+                10751
+            ],
+            "id": 771305,
+            "original_language": "en",
+            "original_title": "Chico Bon Bon and the Very Berry Holiday",
+            "overview": "",
+            "popularity": 23.606,
+            "poster_path": "/6uFfmr790HSdCJcfCeQcltAZUrt.jpg",
+            "release_date": "2020-12-03",
+            "title": "Chico Bon Bon and the Very Berry Holiday",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/523DJjPPgq5fKOni2B8Ly4hTrUE.jpg",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "id": 37834,
+            "original_language": "en",
+            "original_title": "Knight and Day",
+            "overview": "La historia gira en torno a las aventuras de una pareja, una mujer normal que sólo quiere acudir a una boda, y un hombre que parece un agente secreto, a lo largo y ancho del planeta. Ambos se encuentran repetidas veces a lo largo de diversos lugares, condenados a estar juntos en una serie de persecuciones donde nadie es quien parece ser",
+            "popularity": 27.572,
+            "poster_path": "/keazz55QSZLZhaUi53BfiAVMuKb.jpg",
+            "release_date": "2010-06-15",
+            "title": "Noche y día",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 3399
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/29hDDW9F9SUujT4TlPj11zIiwW5.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 472035,
+            "original_language": "es",
+            "original_title": "Alanis",
+            "overview": "Alanis es prostituta, tiene un bebe y comparte un pequeño apartamento con su compañera Gisela. Todo se transforma y para peor, cuando un día dos policías irrumpen en su casa, detienen a su amiga y ella y su hijo acaban prácticamente en la calle. A raíz de esos sucesos, Alanis se refugiará en casa de su tía y luchará por recuperar su dignidad y poder conseguir una mejor vida para ella y su bebé.",
+            "popularity": 30.36,
+            "poster_path": "/2EbrzkkdkgK43rhtdUyjzFLxW5r.jpg",
+            "release_date": "2017-09-09",
+            "title": "Alanis",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 31
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e7WCg7voocROeCwfQwcMS2Og1KE.jpg",
+            "genre_ids": [
+                12,
+                28,
+                14
+            ],
+            "id": 460557,
+            "original_language": "zh",
+            "original_title": "奇门遁甲",
+            "overview": "Un grupo de guerreros con poderes sobrenaturales luchará contra otros guerreros que pretenden apoderarse de un arma destructiva que podría destruir toda la humanidad.",
+            "popularity": 23.231,
+            "poster_path": "/vlvGMtVfYyX4hQJhyIuHs3YalsK.jpg",
+            "release_date": "2017-12-15",
+            "title": "Las mil caras de Dunjia",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 35
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/udtMhgdfHxWmxJYRaJluVSg80Fm.jpg",
+            "genre_ids": [
+                14,
+                16,
+                35,
+                80,
+                10751
+            ],
+            "id": 856,
+            "original_language": "en",
+            "original_title": "Who Framed Roger Rabbit",
+            "overview": "Hollywood, 1947. Eddie Valiant, un detective de poca monta, ha sido contratado para encontrar pruebas que demuestren que Marvin Acme, magnate del negocio de los artículos de broma y dueño de Toontown, está rondando a Jessica Rabbit, mujer fatal y esposa de la superestrella del Marron Cartoon, Roger Rabbit. Cuando Acme aparece asesinado, todas las pruebas apuntan a Roger, y el siniestro y ambicioso Juez Doom está decidido a condenarlo como sea. Roger suplica a Valiant que le ayude a encontrar al verdadero culpable, pero el asunto se irá complicando a medida que Eddie va descubriendo, escándalo tras escándalo, que la propia existencia de Toontown corre peligro.",
+            "popularity": 27.268,
+            "poster_path": "/nXqhkF0tJ1K2fglVMgimVZd5kMH.jpg",
+            "release_date": "1988-06-21",
+            "title": "¿Quién engañó a Roger Rabbit?",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 4307
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7XZsVVnqTsMJXg3J4CHzeV2Lro9.jpg",
+            "genre_ids": [
+                28,
+                35,
+                18
+            ],
+            "id": 663870,
+            "original_language": "da",
+            "original_title": "Retfærdighedens ryttere",
+            "overview": "El militar Markus debe regresar a casa con su hija adolescente, Mathilde, cuando su esposa muere en un trágico accidente de tren. Todo parece ser a causa de la mala suerte, hasta que Otto, experto en matemáticas y también pasajero de tren siniestrado, aparece con sus dos excéntricos colegas, Lennart y Emmenthaler. Otto está convencido de que alguien está detrás de todo esto.",
+            "popularity": 33.229,
+            "poster_path": "/tFBAHlE7FUJZ4YIWPS573ThCobh.jpg",
+            "release_date": "2020-11-19",
+            "title": "Jinetes de la justicia",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 158
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j3vV6gxD7USL13LSAN49pGun1X7.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 44048,
+            "original_language": "en",
+            "original_title": "Unstoppable",
+            "overview": "El destino cruza las vidas de un veterano ingeniero y la de un joven conductor cuando ambos tengan que aunar sus fuerzas para enfrentarse a una peligrosa misión. Un ferrocarril cargado de material altamente toxico ha perdido el control y se encuentra avanzando sin dirección llevándose por delante todo lo que va encontrándose a su paso.Ambos hombres tendrán que hacer que el tren pare antes de descarrilar, evitando así que suceda una tragedia de enormes dimensiones físicas y humanas",
+            "popularity": 19.419,
+            "poster_path": "/e4Vok9xyYs5CKKYKapGQGccyFU2.jpg",
+            "release_date": "2010-11-04",
+            "title": "Imparable",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 2659
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3Vo3UT8cTa6lVgrFAT8B86FXblu.jpg",
+            "genre_ids": [
+                53,
+                80
+            ],
+            "id": 835112,
+            "original_language": "en",
+            "original_title": "Ted Bundy: American Boogeyman",
+            "overview": "",
+            "popularity": 27.027,
+            "poster_path": "/1MGcMWgxYPFrBMjIAHcQqmsOIGS.jpg",
+            "release_date": "2021-08-16",
+            "title": "Ted Bundy: American Boogeyman",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/60XJOemSR9LQRDgBMRN7qkdLsPH.jpg",
+            "genre_ids": [
+                53
+            ],
+            "id": 392207,
+            "original_language": "es",
+            "original_title": "El guardián invisible",
+            "overview": "En los márgenes del río Baztán, en el valle de Navarra, aparece el cuerpo desnudo de una adolescente en una circunstancia que lo relaciona con un asesinato ocurrido un mes atrás... La inspectora Amaia Salazar dirige la investigación que la llevará de vuelta al pueblo de Elizondo, donde ella creció y del que ha tratado de huir toda su vida. Enfrentada con las complicadas derivaciones del caso y sus propios fantasmas, la investigación de Amaia es una carrera contrarreloj para dar con un implacable asesino, en una tierra fértil en supersticiones y brujería...",
+            "popularity": 20.174,
+            "poster_path": "/qKkjBWYiEgwRIN9MWDCndFagsMX.jpg",
+            "release_date": "2017-03-03",
+            "title": "El guardián invisible",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 499
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zxQMedIezpcS6Npx8Q5o30WNDhC.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 376660,
+            "original_language": "en",
+            "original_title": "The Edge of Seventeen",
+            "overview": "Dos estudiantes de instituto que son las mejores amigas ven cómo su amistad se tambalea cuando una comienza a salir con el hermano mayor de la otra.",
+            "popularity": 23.922,
+            "poster_path": "/3D3y3Qo54ck2gFBHlOyV6dwAliV.jpg",
+            "release_date": "2016-11-18",
+            "title": "Al filo de los diecisiete",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 3260
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vzKgFepM7V95CvpYkmcAEgwDEdT.jpg",
+            "genre_ids": [
+                878,
+                18,
+                10749,
+                35
+            ],
+            "id": 11622,
+            "original_language": "en",
+            "original_title": "Blast from the Past",
+            "overview": "En 1962, Calvin Webber (Christopher Walken), un brillante aunque algo paranoico científico, vivía con su esposa Helen (Sissy Spacek) en Los Ángeles. En plena crisis de los misiles de Cuba, un avión sufre un accidente cerca de la casa de los Webber, que, convencidos de que ha estallado una guerra nuclear, se guarecen en un refugio construido por Calvin. 35 años después su hijo Adam (Brendan Fraser), nacido en esa especie de cápsula temporal, sale a la superficie para comprobar si la Tierra sigue siendo apta para la vida humana.",
+            "popularity": 34.181,
+            "poster_path": "/y0iHhfDnBQdvOiqqPJYTAVOIwO8.jpg",
+            "release_date": "1999-02-12",
+            "title": "Buscando a Eva",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 708
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ksM0AptwGeicTCgwkfd6LvUIFSv.jpg",
+            "genre_ids": [
+                12,
+                18
+            ],
+            "id": 13888,
+            "original_language": "en",
+            "original_title": "Return to the Blue Lagoon",
+            "overview": "Dos jóvenes naúfragos mueren dejando solo a su hijo de dos años en la barca. El niño es recogido en alta mar por un barco, donde Sarah Hargrave, que viaja con su pequeña hija, se hace cargo del niño. Al declararse una epidemia de cólera y para evitar una muerte cierta, Sarah y los niños son puestos en una pequeña embarcación que, después de varios días a la deriva, llega a una isla desierta. Al morir Sarah, los jóvenes se quedan solos y deberán luchar por sobrevivir.",
+            "popularity": 19.161,
+            "poster_path": "/jhUTLuPgc3Qcvr5xtji8oiWSfYy.jpg",
+            "release_date": "1991-08-02",
+            "title": "Regreso al lago azul",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 621
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/19EpgKZDkLIwY1TI1pjBJtQ5qdr.jpg",
+            "genre_ids": [
+                28,
+                14,
+                878
+            ],
+            "id": 9823,
+            "original_language": "en",
+            "original_title": "Mortal Kombat: Annihilation",
+            "overview": "Estamos en el universo del Emperador Shao-Khan, donde las reglas no existen y la vida es una continua batalla. Los esbirros del maquiavélico Khan han sido adiestrados para matar y están dispuestos a cumplir las órdenes de su amo, conseguir el control de la Tierra para iniciar su aniquilación total. Un héroe, llamado Liu Kang, les hará frente.",
+            "popularity": 28.262,
+            "poster_path": "/pM2SztHPR6yDg1Xnrm0dbjMdA3b.jpg",
+            "release_date": "1997-11-11",
+            "title": "Mortal Kombat: Aniquilación",
+            "video": false,
+            "vote_average": 4.5,
+            "vote_count": 816
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rgNzvSagnlc32TuMEBa529QFIig.jpg",
+            "genre_ids": [
+                878,
+                18,
+                53
+            ],
+            "id": 76726,
+            "original_language": "en",
+            "original_title": "Chronicle",
+            "overview": "Chronicle cuenta la historia de tres adolescentes normales y corrientes que de pronto desarrollan superpoderes que les permiten hacer cosas que nunca creyeron posibles. Mientras intentan aprender a controlar sus habilidades para usarlas en su beneficio, sus vidas se adentran en una espiral fuera de control, y se muestra el lado oscuro de sus recién descubiertos poderes con consecuencias inesperadas.",
+            "popularity": 28.165,
+            "poster_path": "/t4xb2r36SR2sbUtOsPXdZ3lCmcJ.jpg",
+            "release_date": "2012-02-01",
+            "title": "Chronicle",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 4059
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vTTTVK44UVpi2HtE1DbKkgiMpAk.jpg",
+            "genre_ids": [
+                28,
+                12,
+                16
+            ],
+            "id": 17101,
+            "original_language": "ja",
+            "original_title": "劇場版 BLEACH The DiamondDust Rebellion もう一つの氷輪丸",
+            "overview": "Cuando un artefacto conocido como el \"Sello del Rey\" es robado durante el transporte desde la Sociedad de Almas, Hitsugaya Toushirou es asignado para recuperarlo. Toushirou desaparece después de una batalla con los ladrones, lo que lleva a Seireitei a sospechar de él por traición. Ellos ordenan su captura y ejecución inmediata. No dispuestos a creerlo capaz de semejante crimen, Ichigo, Rangiku, Rukia y Renji se dirigieron a buscar a Toushirou.",
+            "popularity": 23.663,
+            "poster_path": "/1PV8OKvHSYvgmdVnU2wcuzQGthP.jpg",
+            "release_date": "2007-12-22",
+            "title": "Bleach: The DiamondDust Rebellion",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 108
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9QQgY1mF5NVsEyCWpRQVId3Uv7z.jpg",
+            "genre_ids": [
+                10749
+            ],
+            "id": 375533,
+            "original_language": "ja",
+            "original_title": "オオカミ少女と黒王子",
+            "overview": "Erika Shinohara, una chica vanidosa de 16 años le habla a sus amigos sobre su vida amorosa, aunque en realidad no tiene novio. Va diciendo por ahí que un chico guapo de una foto es su novio, pero resulta que ese chico es un compañero de clase que se llama Kyouya Sata. Por desgracia, Sata, aunque parezca una persona agradable, es una persona cruel y malvada, que se aprovecha de la debilidad de Erika y la trata como si fuera su perro.",
+            "popularity": 26.357,
+            "poster_path": "/dc0Rkyi3DOpdS3mxQ1SVzOQDlrs.jpg",
+            "release_date": "2016-05-28",
+            "title": "La Chica Lobo y el Príncipe Negro",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 48
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gu9VOyEmCLQZ0yPweOY0zIOgV3.jpg",
+            "genre_ids": [
+                28,
+                16,
+                878
+            ],
+            "id": 11299,
+            "original_language": "ja",
+            "original_title": "カウボーイビバップ 天国の扉",
+            "overview": "Marte, año 2071, poco antes del día de Halloween. Un camión cisterna lleno de productos químicos hace explosión en una de las calles más importantes de la ciudad, liberando un nuevo virus letal que acaba con la vida de cientos de personas. Las autoridades, temiendo un nuevo ataque aún más destructivo, fijan una recompensa millonaria para quien capture a los responsables. Mientras tanto, en la nave \"Bebop\", Spike y su banda de cazadores de recompensas están aburridos y sin dinero, hasta que conocen la noticia de la recompensa...",
+            "popularity": 21.91,
+            "poster_path": "/rQXAoHhSV0j7uSXODEaowR7QEkr.jpg",
+            "release_date": "2001-09-01",
+            "title": "Cowboy Bebop, la película: Llamando a las puertas del cielo",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 515
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eBGKU0ZLJmxtVtzESTB1mfllX1J.jpg",
+            "genre_ids": [
+                80,
+                28,
+                53
+            ],
+            "id": 630004,
+            "original_language": "en",
+            "original_title": "The Vault",
+            "overview": "Hay un banco completamente distinto a cualquier otro, absolutamente inexpugnable. Nadie ha podido robar ese banco, no existen planos ni datos, y nadie sabe de qué manera se ha construido la cámara acorazada de su interior. El ingeniero Thom Laybrick no tiene miedo a nada, lo único que piensa es en entrar en esa cámara acorazada y robar un misterioso objeto que hay en su interior. Un objeto que sólo estará ahí durante 10 días. Durante este tiempo, una esperadísima final de fútbol se celebrará en España, por lo que Laybrick tendrá una oportunidad de oro para entrar en el banco sin que nadie lo vea.",
+            "popularity": 75.483,
+            "poster_path": "/pmOGoU0dzGeQaNPP4UZchGPnhWu.jpg",
+            "release_date": "2021-03-03",
+            "title": "Way Down",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 276
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gqyTUMNrMjyIVNVIgGMdurrNPWb.jpg",
+            "genre_ids": [
+                16,
+                12,
+                35,
+                10751
+            ],
+            "id": 260514,
+            "original_language": "en",
+            "original_title": "Cars 3",
+            "overview": "Rayo McQueen sigue siendo el mejor coche de carreras del mundo, pero ahora que es uno de los más veteranos del circuito, debe demostrar a todo el mundo que aún puede ganar una gran carrera y que no necesita jubilarse. En esta ocasión, el famoso bólido de carreras tendrá que enfrentarse a una nueva generación de corredores más jóvenes, potentes y veloces, que amenaza con cambiar el deporte de su vida. Entre ellos está el competitivo y revolucionario Jackson Storm, que no se lo pondrá nada fácil.",
+            "popularity": 76.018,
+            "poster_path": "/4tp9W3QAbQcpanBtBceZtHD10UT.jpg",
+            "release_date": "2017-06-15",
+            "title": "Cars 3",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 4141
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rp6aXM2EWkaUdq6zbSlhUOY2869.jpg",
+            "genre_ids": [
+                80,
+                10749,
+                53
+            ],
+            "id": 438689,
+            "original_language": "en",
+            "original_title": "Siberia",
+            "overview": "Cuando el socio ruso de un tratante de diamantes norteamericano (Keanu Reaves) desaparece, éste viaja a Siberia en su búsqueda, donde conoce a Katya (Ana Ularu), la joven propietaria de un café.",
+            "popularity": 64.27,
+            "poster_path": "/A52dnVJKfoNCtGEI9Zw2Zyip91b.jpg",
+            "release_date": "2018-07-13",
+            "title": "Siberia",
+            "video": false,
+            "vote_average": 4.8,
+            "vote_count": 388
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kLsrE6q4ld144ECBkydZ4dV8t9T.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 648990,
+            "original_language": "es",
+            "original_title": "La casa",
+            "overview": "Inspirada en hechos reales, La Casa, es una película de horror y misterio grabada en tiempo real y sin cortes. Un oficial de policía a fines de los 80 (dictadura en Chile), está atrapado en una vieja casa donde ocurren eventos paranormales violentos.",
+            "popularity": 64.924,
+            "poster_path": "/fvTGWaQejnHQBZbEOrdbb38NBTC.jpg",
+            "release_date": "2020-01-30",
+            "title": "La casa",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 63
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/50kyTkY0ThpptlZfrOdXqEEvmfY.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 514995,
+            "original_language": "en",
+            "original_title": "Gully",
+            "overview": "Tres adolescentes que han crecido en arduas circunstancias, Jessie, Calvin y Nicky, se dedican a ver la vida pasar mientras tratan de averiguar qué han de hacer para poder salir adelante en la vida.",
+            "popularity": 75.064,
+            "poster_path": "/zQYqj37ZUjYeNTKpfDy9NybYCeB.jpg",
+            "release_date": "2021-06-04",
+            "title": "Gully",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qdthf9WrRDSaIkGVQGhhJ9pz1hn.jpg",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                10751,
+                35
+            ],
+            "id": 9502,
+            "original_language": "en",
+            "original_title": "Kung Fu Panda",
+            "overview": "El protagonista es un oso panda llamado Po, el más vago de todas las criaturas del Valle de la Paz. Con poderosos enemigos acercándose, la esperanza es depositada en una antigua profecía que dice que un héroe se alzará para salvarles. Voces originales de Jack Black, Angelina Jolie, Dustin Hoffman, Lucy Liu & Jackie Chan.",
+            "popularity": 71.429,
+            "poster_path": "/zNH6ny98LXIYXWqtJJ9ljWyY5H4.jpg",
+            "release_date": "2008-06-04",
+            "title": "Kung Fu Panda",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 8705
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nFCUBRDF4C6RWopNo0nAfvMA6mm.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 225886,
+            "original_language": "en",
+            "original_title": "Sex Tape",
+            "overview": "Cuando Jay (Jason Segel) y Annie (Cameron Diaz) entablaron relación, la atracción entre ambos era muy intensa. Diez años y dos hijos después, se dan cuenta de que hay que reavivar la llama de la pasión. Deciden entonces grabarse en vídeo mientras mantienen una maratoniana sesión sexual de tres horas. El problema surge cuando descubren que el vídeo ha sido enviado por error a sus amigos y familiares.",
+            "popularity": 64.152,
+            "poster_path": "/36kL3taCgBSHDf1Eb6N8iQJ5Zj0.jpg",
+            "release_date": "2014-07-17",
+            "title": "Sex Tape. Algo pasa en la nube",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 3486
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lIE7kfdLBRd0KENNtOaIqPPWNqh.jpg",
+            "genre_ids": [
+                27,
+                18,
+                14
+            ],
+            "id": 590995,
+            "original_language": "en",
+            "original_title": "The Craft: Legacy",
+            "overview": "Un ecléctico cuarteto de aspirantes a brujas adolescentes obtienen más de lo que esperaban mientras se inclinaban hacia sus nuevos poderes.",
+            "popularity": 75.212,
+            "poster_path": "/nPngRyZrEyHLoEtTC0fiv6ErAJr.jpg",
+            "release_date": "2020-10-28",
+            "title": "Jóvenes y brujas",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 445
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dyvN0x7kjfadYGDszWi18llr1ZY.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 623926,
+            "original_language": "es",
+            "original_title": "Hasta que la boda nos separe",
+            "overview": "Marina es una treintañera que se gana la vida organizando bodas, y no porque sea una romántica empedernida, sino porque como ella misma dice \"cuando la gente está enamorada, no mira el dinero\". A diferencia de sus clientes, ella disfruta de una vida sin ataduras ni compromisos, hasta que una noche conoce a Carlos, un affaire más para ella y un momento de debilidad para él. Porque él tiene novia: Alexia, una joven perfecta y amiga de infancia de Marina. Cuando Alexia descubre la tarjeta de visita de Marina entre las cosas de Carlos, lo interpreta como una propuesta de matrimonio y dice que sí de inmediato.",
+            "popularity": 76.479,
+            "poster_path": "/bkz7ZoqJMFziqF8yQzkmfMRUEG.jpg",
+            "release_date": "2020-02-14",
+            "title": "Hasta que la boda nos separe",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 121
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fgsHxz21B27hOOqQBiw9L6yWcM7.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 439079,
+            "original_language": "en",
+            "original_title": "The Nun",
+            "overview": "Cuando una joven monja se suicida en una abadía de clausura en Rumanía, un sacerdote experto en posesiones demoniacas y una novicia a punto de tomar sus votos, son enviados por el Vaticano para investigar. Juntos descubren el profano secreto de la orden. Arriesgando no solo sus propias vidas sino su fe y hasta sus almas, se enfrentan a una fuerza maléfica en forma de monja demoníaca, en una abadía que se convierte en un campo de batalla de horror entre los vivos y los condenados....",
+            "popularity": 72.209,
+            "poster_path": "/q2JFJ8x0IWligHyuLJbBjqNsySf.jpg",
+            "release_date": "2018-09-05",
+            "title": "La monja",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 4800
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zLa8fA7boGtNoNH7n6iYi9UqoaH.jpg",
+            "genre_ids": [
+                878,
+                27,
+                9648
+            ],
+            "id": 458305,
+            "original_language": "en",
+            "original_title": "Vivarium",
+            "overview": "Una joven y su prometido buscan el hogar perfecto para empezar. Después de seguir a un misterioso agente de bienes raíces a un nuevo desarrollo de viviendas, la pareja se encuentra atrapada en un laberinto de casas idénticas y obligada a criar a un niño de otro mundo.",
+            "popularity": 72.046,
+            "poster_path": "/bk5xkiXc1msKwrRJ5WtisHui8xE.jpg",
+            "release_date": "2019-09-07",
+            "title": "Vivarium",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 1088
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3mNA9xRqd5WfDj1hBpbbniFcI2T.jpg",
+            "genre_ids": [
+                10749,
+                10751,
+                16,
+                14
+            ],
+            "id": 10020,
+            "original_language": "en",
+            "original_title": "Beauty and the Beast",
+            "overview": "Una hermosa joven llamada Bella acepta alojarse en un castillo con una bestia a cambio de la libertad de su padre. La bestia es, en realidad, un príncipe encantado. Para romper el hechizo, deberá ganarse el amor de una preciosa dama antes de que caiga el último pétalo de una rosa encantada.",
+            "popularity": 65.711,
+            "poster_path": "/1FxMtEUc6DP1MXsTBftOFaoCVVO.jpg",
+            "release_date": "1991-10-22",
+            "title": "La bella y la bestia",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 7894
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ukNTB96qPadujTRDagpN5EBHR5P.jpg",
+            "genre_ids": [
+                16,
+                12,
+                35,
+                10751
+            ],
+            "id": 46195,
+            "original_language": "en",
+            "original_title": "Rio",
+            "overview": "Blu es un guacamayo que ha crecido en un pequeño pueblo de Minnesota en EEUU, un buen día se entera que es el último espécimen macho de su especie. Es entonces cuando Blu y su dueña, compañera y protectora Linda, deciden tomar rumbo a Rio de Janeiro para conocer a Tulio, un excéntrico experto en pájaros, y a Perla, quien es la última hembra de su especie. Juntos se embarcan en una serie de aventuras para sobrevivir junto a otros amigos que conocen a medida que se desarrolla la historia",
+            "popularity": 72.912,
+            "poster_path": "/hSOSe3fwYP94obC0K2tyNuPiGD3.jpg",
+            "release_date": "2011-04-03",
+            "title": "Río",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 5193
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mX3WOJPBzzl4kj4xU5lL7qfD6C3.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "id": 209112,
+            "original_language": "en",
+            "original_title": "Batman v Superman: Dawn of Justice",
+            "overview": "Ante el temor de las acciones que pueda llevar a cabo Superman, el vigilante de Gotham City aparece para poner a raya al superhéroe de Metrópolis, mientras que la opinión pública debate cuál es realmente el héroe que necesitan. El hombre de acero y Batman se sumergen en una contienda territorial, pero las cosas se complican cuando una nueva y peligrosa amenaza surge rápidamente, poniendo en jaque la existencia de la humanidad.",
+            "popularity": 69.528,
+            "poster_path": "/mS3t9puIjLKgoex82cu9d6G0835.jpg",
+            "release_date": "2016-03-23",
+            "title": "Batman v. Superman: El amanecer de la Justicia",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 15066
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5KmhjlR5CEarB8mKtpjcjHRYIu9.jpg",
+            "genre_ids": [
+                80,
+                28,
+                18
+            ],
+            "id": 535292,
+            "original_language": "en",
+            "original_title": "21 Bridges",
+            "overview": "Andre Davis (Chadwick Boseman) es un policía de Nueva york al que le encargan la investigación del asesinato de varios policías. Durante la búsqueda contrarreloj de los responsables, en la que se cierran por primera vez en la historia de Manhattan todos los puentes que acceden a ella, el detective descubre una conspiración en la que tendrá que discernir entre aquellos a los que caza y los sospechosos que están tratando de cazarle a él.",
+            "popularity": 78.393,
+            "poster_path": "/lvd6UqDqoYv0gMSqzFyiZkC8eny.jpg",
+            "release_date": "2019-10-24",
+            "title": "Manhattan sin salida",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 1351
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tuDhEdza074bA497bO9WFEPs6O6.jpg",
+            "genre_ids": [
+                12,
+                10751,
+                14
+            ],
+            "id": 411,
+            "original_language": "en",
+            "original_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+            "overview": "La historia narra las aventuras de cuatro hermanos: Lucy, Edmund, Susan y Peter, que durante la Segunda Guerra Mundial descubren el mundo de Narnia, al que acceden a través de un armario mágico mientras juegan al escondite en la casa de campo de un viejo profesor. En Narnia descubrirán un mundo increíble habitado por animales que hablan, duendes, faunos, centauros y gigantes al que la Bruja Blanca- Jadis- ha condenado al invierno eterno. Con la ayuda del león Aslan, el noble soberano, los niños lucharán para vencer el poder que la Bruja Blanca ejerce sobre Narnia en una espectacular batalla y conseguir así liberarle de la maldición del frío.",
+            "popularity": 83.559,
+            "poster_path": "/y9WMcPeguI4pmwULmB6LqzPyj1v.jpg",
+            "release_date": "2005-12-07",
+            "title": "Las crónicas de Narnia: El león, la bruja y el armario",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 8075
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wRTZaxAiDP0ZEeQsO0HiiSqYCSp.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                12
+            ],
+            "id": 950,
+            "original_language": "en",
+            "original_title": "Ice Age: The Meltdown",
+            "overview": "¡Tus héroes favoritos han vuelto con otra magnífica aventura en esta gélida secuela del magnífico éxito mundial Ice Age! Y esta vez la cosa se calienta como la temperatura ambiente para Manny, Sid, Diego y Scrat, que abandonan su valle para escapar a una auténtica inundación de problemas y emprenden un divertidísimo viaje por un paisaje en pleno deshielo durante el cual conocen a Ellie.",
+            "popularity": 72.587,
+            "poster_path": "/wnBEdWq5gplaAgTmYFg4cq89mWi.jpg",
+            "release_date": "2006-03-29",
+            "title": "Ice Age 2: El deshielo",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 7806
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hIHtyIYgBqHybOgUdoAmveipuiO.jpg",
+            "genre_ids": [
+                28,
+                27,
+                878
+            ],
+            "id": 703745,
+            "original_language": "en",
+            "original_title": "Deep Blue Sea 3",
+            "overview": "La doctora Emma Collins y su equipo están pasando su tercer verano en la isla Little Happy estudiando el efecto del cambio climático en el gran tiburón blanco. Junto a los dos últimos habitantes del antiguo pueblo pesquero, su vida se ve alterada cuando un equipo \"científico\" liderado por su exnovio y marino biológico Richard aparece buscando tres tiburones toro que son algo más de lo que aparentan en un principio.",
+            "popularity": 67.379,
+            "poster_path": "/96rOUJEbHrhVW7JYzPJm5ZyMDg0.jpg",
+            "release_date": "2020-08-25",
+            "title": "Deep Blue Sea 3",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 168
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vooRKLGVvFRFmx9swcMh26uYZSf.jpg",
+            "genre_ids": [
+                16,
+                10749,
+                35,
+                18,
+                14
+            ],
+            "id": 530079,
+            "original_language": "ja",
+            "original_title": "きみと、波にのれたら",
+            "overview": "Tras acceder a la Universidad, Hinako se muda a un pueblo de la costa. Allí se dedica a coger olas, pues se siente invencible cuando surfea, pera sigue sin tener claro qué le depara el futuro. Cuando se desata un fuego en el pueblo, Hinako conoce al joven bombero Minato. A medida que ambos comparten su tiempo mientras se dedican a su deporte favorito, Hinako comienza a darse cuenta de que lo que más desea en el mundo es, como Minato, ayudar a otras personas.",
+            "popularity": 73.788,
+            "poster_path": "/glAzGD7Qt8zMuwHvAJ1QbUAbs7i.jpg",
+            "release_date": "2019-06-21",
+            "title": "El amor está en el agua",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 141
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lvNQKZUsw7pg79CROCFlIk8PT67.jpg",
+            "genre_ids": [
+                12,
+                878,
+                16,
+                14,
+                27
+            ],
+            "id": 627661,
+            "original_language": "en",
+            "original_title": "Cranston Academy: Monster Zone",
+            "overview": "Un inteligente estudiante de secundaria de 15 años es trasladado inesperadamente a un internado donde abre un portal de monstruos de otra dimensión.",
+            "popularity": 79.89,
+            "poster_path": "/6syuH9H6hbRFBcvphINTVDlghYQ.jpg",
+            "release_date": "2020-04-29",
+            "title": "Academia Cranston: Escuela de Monstruos",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 69
+        }
+    ]
 }
